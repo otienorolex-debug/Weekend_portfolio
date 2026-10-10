@@ -4,7 +4,7 @@ A responsive, single-page portfolio introducing Rolex Otieno, his skills, projec
 
 ## Live demo
 
-Not deployed yet. After publishing this repository with GitHub Pages, replace this line with the live site URL.
+[Open the live portfolio](https://otienorolex-debug.github.io/Weekend_portfolio/weekend_assignment/)
 
 ## Features
 
