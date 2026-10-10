@@ -25,8 +25,6 @@ A responsive, single-page portfolio introducing Rolex Otieno, his skills, projec
 1. Download or clone the repository.
 2. Open `index.html` in a web browser.
 
-The profile image, `alien.jpeg`, should remain in the same folder as the HTML file.
-
 ## What I learned
 
 I learned how to structure a single-page portfolio with HTML and style it for different screen sizes using CSS. I also practiced storing skills and project information in JavaScript arrays and using loops to display that information on the page.
